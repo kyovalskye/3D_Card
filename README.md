@@ -1,36 +1,61 @@
 
-# Youtube Lun Dev
+#### **📌 Project Title**  
+# 📝 3D Card Website Using HTML, CSS and Javascript  
 
-Free code HTML CSS Javascript and Free learning web developer 
+#### **📄 Project Description**  
+A simple and interactive **3D card** built with **HTML, CSS, and JavaScript.**  
 
+#### **📂 Project Structure**  
+```
+📦 3D Card Website
+ ┣ 📂 picture     # Image assets for the cards
+ ┣ 📜 index.html  # Main HTML structure
+ ┣ 📜 script.js   # JavaScript logic
+ ┣ 📜 style.css   # Styling
+ ┣ 📜 README.md   # Documentation
+```  
 
-![Logo](https://yt3.googleusercontent.com/LnD0yL5NAb8yvZu2d25qLZ-oAehUISz9tfe3aN36syGqTKbs4irbPeVUJfNlmVFRzel7KHV3-uo=s88-c-k-c0x00ffffff-no-rj)
+#### **⚡ Technologies Used**  
+- **HTML** – Structure  
+- **Basic CSS** – Styling  
+- **JavaScript** – Functionality  
 
-## Image in project
+#### **📦 Installation & Usage**  
+```bash
+# Clone the repository
+git clone https://github.com/kyovalskye/3D_Card.git
 
-![Alt text](project.png "Lun Dev") 
-- [Detailed instructions on this project](https://www.lundevweb.com/2023/01/tao-chuc-nang-zoom-anh-voi-javascript.html)
+# Open index.html in a browser
+```
 
+#### **👨‍💻 Contribution**  
+Feel free to **fork** this repository, submit **issues**, or create **pull requests**!  
 
-## Follow me for more free codes
+#### **📜 License**  
+This project is **MIT Licensed** – free to use and modify!  
 
- - [Youtube Lun Dev](https://www.youtube.com/results?search_query=l%C3%B9n+dev)
- - [Tiktok Lun Dev](https://www.tiktok.com/@lun.dev)
- - [Website Lun Dev Web](https://lundevweb.com)
+---
 
+### **📌 Steps to Upload on GitHub**  
 
-## Built By
+1️⃣ **Create a new repository on GitHub**  
+- Go to [GitHub](https://github.com/) → Click **New Repository**  
+- Repository name: **to-do-list-tailwind-js**  
+- Add description: "A simple to-do list app with HTML, Tailwind CSS, and JavaScript"  
+- Check **"Add a README file"**  
+- Click **"Create Repository"**  
 
-This project is built and shared by
+2️⃣ **Upload Your Files**  
+```bash
+# Initialize Git
+git init
+git add .
+git commit -m "Initial commit - 3D_Card"
 
-- Lun Dev
+# Connect to GitHub Repository
+git branch -M main
+git remote add origin https://github.com/yourusername/3D_Card.git
 
-
-## Feedback
-
-If you have any feedback, please reach out to us at hohoang.dev@gmail.com
-
-
-## Tags
-
-Free code HTML CSS Javascript and Free learning web developer, html code, css code, javascript code tutorial
+# Push to GitHub
+git push -u origin main
+```
